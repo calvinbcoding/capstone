@@ -34,6 +34,5 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.5.12",
     "morgan": "^1.9.1",
-    "pathfinder": "^0.3.0-1"
   }
 }
